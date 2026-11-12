@@ -108,7 +108,7 @@
     "documented_capabilities_summary": "Work in Progress report: Job Cost module prints WIP schedules with contract, cost, billed and over/underbilled columns. | Percent-complete earned rev: Calculates percent complete and earned revenue from job cost and projected cost-at-completion. | AIA-format draw requests: Help describes two standard AIA formats; confirm required forms. | Line-level retainage: Expanded and Crystal-Link reports print retainage per line; rounding and overrides matter.",
     "verification_question": "Name the company and cutoff. Ask which documented web-service objects or native reports supply contract, cost, billing and payroll for that cutoff, and when each data set last finished updating. A recently updated job list does not show that costs or payroll updated with it.",
     "playbook_url": "https://levelcfo.com/guides/software-integration/spectrum/",
-    "research_profile_url": "https://tradesindex.org/software/spectrum/",
+    "research_profile_url": "https://tradesindex.org/software/viewpoint-spectrum/",
     "canonical_url": "https://levelcfo.com/benchmarks/finance-software/",
     "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
     "commercial_licensing_contact": "sam@levelcfo.com",

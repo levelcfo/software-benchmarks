@@ -100,7 +100,7 @@
     "subledger_or_field_tool": "Ramp / Brex (Spend & Cards)",
     "target_accounting_ledgers": "QuickBooks Online, Sage Intacct, NetSuite, Xero, Finaloop",
     "what_syncs": "Corporate card transactions, receipt OCR, employee reimbursements, Bill Pay ACH batches, and job/class/department tags",
-    "reconciliation_trap": "In LevelBench-100 WF01, card receipts with hospitality add-ons or fuel/personal splits are misclassified by raw AI rules, and when Ramp or Brex Bill Pay is used alongside Bill.com or QBO bank feeds, ACH settlement debits often get categorized directly to expense instead of clearing the open AP bill.",
+    "reconciliation_trap": "In our 100-check LevelBench-100 takeover evaluation, card receipts with hospitality add-ons or fuel/personal splits are misclassified by raw AI rules, and when Ramp or Brex Bill Pay is used alongside Bill.com or QBO bank feeds, ACH settlement debits often get categorized directly to expense instead of clearing the open AP bill.",
     "integration_guide_url": "https://levelcfo.com/benchmarks/agentic-accounting/",
     "canonical_url": "https://levelcfo.com/benchmarks/finance-software/",
     "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
